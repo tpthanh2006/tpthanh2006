@@ -1,5 +1,15 @@
-<h1 align="center">Yo 👋, I'm William Tran</h1>
-<h3 align="center">A rising full-stack developer from Tulane University</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?;I'm%20Sophie%20Nguyen%20🌻&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20Intern%20at%20CodeDay%20Labs%20🌻;Mentee%20at%20LinkedIn%20and%20Amazon%20🌻&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 - 🔭 I’m currently working on [PokerU](https://github.com/tpthanh2006/PokerU)
