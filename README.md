@@ -1,16 +1,16 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=How%20do%20you%20do?;I'm%20Sophie%20Nguyen%20🌻&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=How%20are%20you%20doing?;I'm%20William%20Tran🔥&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20Intern%20at%20CodeDay%20Labs%20🌻;Mentee%20at%20LinkedIn%20and%20Amazon%20🌻&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Rising%20Software%20Engineer%20from%20Tulane%20University🌊&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
   
 - 🔭 I’m currently working on [PokerU](https://github.com/tpthanh2006/PokerU)
 
