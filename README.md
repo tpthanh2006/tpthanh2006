@@ -26,8 +26,6 @@
 
 - ⚡ Fun fact: **I love working out and enjoying good food**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1lTo9JvgTzZ90LoRJQhEzpCIqx2zroODy/view?usp=sharing)
-
 - 📫 How to reach me: **williamtran.work26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
