@@ -1,4 +1,4 @@
-<h1 align="center">Hi Fam👋, I'm William Tran</h1>
+<h1 align="center">Yo 👋, I'm William Tran</h1>
 <h3 align="center">A rising full-stack developer from Tulane University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
