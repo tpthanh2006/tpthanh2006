@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Tran</h1>
 <h3 align="center">A rising full-stack developer from Tulane University</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc0a2t4cm53Z2Q1N2k3dGg0eW1rNmthem4xanc3OTBsYWw0enl4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently working on [PokerU](https://github.com/tpthanh2006/PokerU)
 
@@ -9,7 +10,7 @@
 
 - 🤝 I’m looking for help with [My Portfolio](https://github.com/tpthanh2006?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [tpthanh2006.github.io](tpthanh2006.github.io)
+- 👨‍💻 All of my projects are available at [my website](tpthanh2006.github.io)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS**
 
