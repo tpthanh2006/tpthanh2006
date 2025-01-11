@@ -31,9 +31,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/williamtran26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamtran26" height="30" width="40" /></a>
-<a href="https://github.com/tpthanh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tpthanh2006" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22396689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22396689" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thanhtrn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thanhtrn06" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22396689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22396689" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/thanhtrn14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thanhtrn14" height="30" width="40" /></a>
 </p>
 
