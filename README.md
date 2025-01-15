@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [TaskHub](https://github.com/tpthanh2006/TaskHub)
 
-- 🤝 I’m looking for help with [Portfolio](tpthanh2006.github.io)
+- 🤝 I’m looking for help with [Portfolio](https://github.com/tpthanh2006/tpthanh2006.github.io)
 
 - 👨‍💻 All of my projects are available at [My Website](tpthanh2006.github.io)
 
