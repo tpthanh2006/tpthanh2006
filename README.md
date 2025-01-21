@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on [PokerU](https://github.com/tpthanh2006/PokerU)
 
-- 👯 I’m looking to collaborate on [Advanced MERN AuthZ](https://github.com/tpthanh2006/Advanced-MERN-Auth-Z)
+- 👯 I’m looking to collaborate on [AuthZ Pro](https://github.com/tpthanh2006/Advanced-MERN-Auth-Z)
 
 - 🤝 I’m looking for help with [TaskHub](https://github.com/tpthanh2006/TaskHub)
 
