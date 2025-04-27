@@ -1,18 +1,16 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=How%20are%20you%20doing?;I'm%20William%20Tran 🔥&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=35" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=45B6FE&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=How+are+you+doing%3F+I'm+William+Tran" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Honors%20CS%20Scholar%20at%20Tulane%20University 🌊&font=Fira%20Code&center=true&width=1000&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45B6FE&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=Honors+CS+Scholar+%40+Tulane+University" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
   
-- 🔭 I’m currently working on [Inventory Pilot[(https://github.com/tpthanh2006/Inventory-Pilot)
+- 🔭 I’m currently working on [Inventory Pilot](https://github.com/tpthanh2006/Inventory-Pilot)
 
 - 👯 I’m looking to collaborate on [PokerU](https://github.com/tpthanh2006/PokerU)
 
