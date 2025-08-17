@@ -1,30 +1,32 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=45B6FE&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=How+are+you+doing%3F+I'm+William+Tran" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=45B6FE&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=How+are+you+doing%3F+I'm+William+Tran" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45B6FE&center=true&vCenter=true&repeat=true&random=true&width=440&height=45&lines=Honors+CS+Scholar+%40+Tulane+University" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=SWE+Fellow+%40+Tulane+GDGC+%7C%7C+Prev+SWE+Intern+%40+DFG+%26+SEO+Tech+Dev;%F0%9F%94%A5+Honors+CS+%40+Tulane+%7C%7C+Full+Stack+Web+Dev+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
   
-- 🔭 I’m currently working on [Inventory Pilot](https://github.com/tpthanh2006/Inventory-Pilot)
+- 🔭 I’m currently working on [PokerU](https://github.com/tpthanh2006/PokerU)
 
-- 🤝 I’m looking for help with [PokerU](https://github.com/tpthanh2006/PokerU)
+- 🤝 I’m looking for help with [Inventory Pilot](https://github.com/tpthanh2006/Inventory-Pilot)
 
 - 👯 I’m looking to collaborate on [AuthZ Pro](https://github.com/tpthanh2006/Advanced-MERN-Auth-Z)
 
-- 👨‍💻 All of my projects are available at [My Website](tpthanh2006.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://william-tran.vercel.app/)
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS**
+- 💬 Ask me about **Python, C++, Java, JavaScript, TypeScript, HTML, CSS**
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React Native, Django**
 
-- ⚡ Fun fact: **I love working out and enjoying good food**
+- ⚡ Fun fact: **I have the FATTEST dog in the world, Candy**
 
-- 📫 How to reach me: **williamtran.work26@gmail.com**
+- 📫 How to reach me: **williamtran26jr.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
