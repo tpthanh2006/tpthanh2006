@@ -16,15 +16,13 @@
 
 - 🤝 I’m looking for help with [Inventory Pilot](https://github.com/tpthanh2006/Inventory-Pilot)
 
-- 👯 I’m looking to collaborate on [AuthZ Pro](https://github.com/tpthanh2006/Advanced-MERN-Auth-Z)
-
 - 👨‍💻 All of my projects are available at [My Website](https://william-tran.vercel.app/)
 
 - 💬 Ask me about **Python, C++, Java, JavaScript, TypeScript, HTML, CSS**
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React Native, Django**
 
-- ⚡ Fun fact: **I have the FATTEST dog in the world, Candy**
+- ⚡ Fun fact: **I have the MOST CHUBBY dog in the world, Candy**
 
 - 📫 How to reach me: **williamtran26jr.work@gmail.com**
 
