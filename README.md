@@ -15,7 +15,7 @@
 - 🤝 I’m open to collaboration on **[PokerU](https://github.com/tpthanh2006/PokerU)**
 - 👨‍💻 Explore my work at **[william-tran.vercel.app](https://william-tran.vercel.app/)**
 - 💬 Ask me about **Go, Python, C++, TypeScript, React, GraphQL, gRPC, and PostgreSQL**
-- 🎓 Studying CS at **Georgia State University** (GPA: 3.96)
+- 🎓 Studying CS at **Georgia State University**
 - ⚡ Fun fact: **I have the MOST CHUBBY dog in the world, Candy 🐶**
 
 ---
