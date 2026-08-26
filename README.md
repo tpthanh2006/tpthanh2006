@@ -11,12 +11,15 @@
    </a>
 </p>
 
-- 🔭 I’m currently working on **[Inventory Pilot](https://github.com/tpthanh2006/Inventory-Pilot)**
-- 🤝 I’m open to collaboration on **[PokerU](https://github.com/tpthanh2006/PokerU)**
-- 👨‍💻 Explore my work at **[william-tran.vercel.app](https://william-tran.vercel.app/)**
-- 💬 Ask me about **Go, Python, C++, TypeScript, React, GraphQL, gRPC, and PostgreSQL**
-- 🎓 Studying CS at **Georgia State University**
-- ⚡ Fun fact: **I have the MOST CHUBBY dog in the world, Candy 🐶**
+💫 🔥 How do you do? I'm William 🔥💫 
+
+💫 🔥 I'm a full-stack builder who turns messy, scattered problems into clean, scalable systems 🔥💫 
+
+💫 🔥 My motto: Build today, learn always, ship what matters 🔥💫 
+
+💫 🔥 Never stop building, never stop learning 🔥💫
+
+🔥🌻💫✨ Sophie's ✨💫🌻🔥
 
 ---
 
